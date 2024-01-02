@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/BNV/static/js/main.c6caab14.js",
+    "static/media/mountains.jpg": "/BNV/static/media/mountains.4cc60c737a910d45a5ab.jpg",
+    "static/media/loading-gif.gif": "/BNV/static/media/loading-gif.803f24369a085e35482e.gif",
+    "index.html": "/BNV/index.html",
+    "static/media/next.svg": "/BNV/static/media/next.930c7ef6b0b64929d8f05ff8adedd99d.svg",
+    "main.c6caab14.js.map": "/BNV/static/js/main.c6caab14.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c6caab14.js"
+  ]
+}
